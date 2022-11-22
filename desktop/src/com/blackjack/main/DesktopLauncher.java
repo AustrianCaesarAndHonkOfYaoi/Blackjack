@@ -10,8 +10,9 @@ public class DesktopLauncher {
         Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
         config.setForegroundFPS(60);
         config.setTitle("Blackjack");
-config.setInitialBackgroundColor(Color.ROYAL);
+        config.setInitialBackgroundColor(Color.ROYAL);
         config.setMaximized(true);
+        config.setResizable(false);
         new Lwjgl3Application(new MainController(), config);
     }
 }

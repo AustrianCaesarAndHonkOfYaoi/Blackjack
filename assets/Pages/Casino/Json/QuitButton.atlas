@@ -1,0 +1,48 @@
+
+QuitButton.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+GameDeckFull
+  rotate: false
+  xy: 1, 646
+  size: 537, 127
+  orig: 537, 127
+  offset: 0, 0
+  index: -1
+GameDeckFullB
+  rotate: false
+  xy: 1, 517
+  size: 537, 127
+  orig: 537, 127
+  offset: 0, 0
+  index: -1
+GameGalleryFull
+  rotate: false
+  xy: 1, 388
+  size: 537, 127
+  orig: 537, 127
+  offset: 0, 0
+  index: -1
+GameGalleryFullB
+  rotate: false
+  xy: 1, 259
+  size: 537, 127
+  orig: 537, 127
+  offset: 0, 0
+  index: -1
+GameQuitFull
+  rotate: false
+  xy: 1, 130
+  size: 537, 127
+  orig: 537, 127
+  offset: 0, 0
+  index: -1
+GameQuitFullB
+  rotate: false
+  xy: 1, 1
+  size: 537, 127
+  orig: 537, 127
+  offset: 0, 0
+  index: -1
