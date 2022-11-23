@@ -11,8 +11,9 @@ public class DesktopLauncher {
         config.setForegroundFPS(60);
         config.setTitle("Blackjack");
         config.setInitialBackgroundColor(Color.ROYAL);
-        config.setMaximized(true);
+        config.setWindowedMode(1800, 1350);
         config.setResizable(false);
+
         new Lwjgl3Application(new MainController(), config);
     }
 }

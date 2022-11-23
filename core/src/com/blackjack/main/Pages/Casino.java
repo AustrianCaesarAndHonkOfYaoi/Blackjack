@@ -54,7 +54,7 @@ public class Casino implements Screen {
     @Override
     public void render(float delta) {
         spriteBatch.begin();
-        spriteBatch.draw(backgroundTexture, 180, 0);
+        spriteBatch.draw(backgroundTexture, 0, 0);
         spriteBatch.end();
         stage.draw();
     }
